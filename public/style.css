@@ -1,0 +1,13 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.container{
+    margin-top: 200px;
+}
+h1{
+    font-size: 5rem;
+}
+.url{
+    margin-top: 60px;
+}
