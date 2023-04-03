@@ -5,11 +5,11 @@ URL shortener project is a tool that shortens lengthy web addresses into concise
 <br>
 
 
-* i have create this project using the following technologies:-
+## I have create this project using the following technologies:-
 <br>
-  - EJS
-  - express js
-  - mongodb
+  - EJS <br>
+  - express js<br>
+  - mongodb<br>
  <br>
   <br>
    <br>
