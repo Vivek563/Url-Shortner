@@ -1,10 +1,8 @@
 # URL Shortener Project <br>
-<br>
 
 ## Introduction
 <p> The URL Shortener project is a simple web application that shortens long URLs and provides a shortened version that can be used as a redirect to the original URL.
-</p>
-<br>
+
 
 ## Features
 * Shorten long URLs to a more manageable length
@@ -13,7 +11,7 @@
 * Option to customize shortened URLs
 * Option to set an expiration date for shortened URLs
 <br>
-<br>
+
 
 ## Technologies
 
@@ -23,14 +21,12 @@
 * Backend: Node.js, Express.js
 * Database: MongoDB
 <br>
-<br>
+
 
 ## Installation
 
-<br>
 To install the URL Shortener project, follow these steps:
 
-<br>
 
 #### Clone the repository
 * Install dependencies using **npm** install
